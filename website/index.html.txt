@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shinjo - Where Balls Soar!</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to CSS -->
+</head>
+<body>
+    <header>
+        <div class="hero">
+            <h1>Welcome to Shinjo – Where Balls Soar!</h1>
+            <h2>Crafting Premium Leather Cricket Balls That Take Your Game to New Heights!</h2>
+            <p>At Shinjo, we believe that every cricket ball should be as passionate about the game as you are. Our premium leather balls are designed to fly high, ensuring your shots are legendary!</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Once upon a time, in a land where cricket reigns supreme, a passionate cricket lover decided that the world needed better balls – and thus, Shinjo was born! Our founder had a vision: to craft cricket balls that not only perform but also bring joy to the game.</p>
+        <p>At Shinjo, we envision a world where every bowler can unleash their full potential and every batsman can smash their way to glory! We’re committed to quality, innovation, and, most importantly, having fun along the way.</p>
+        <p>We don’t just make balls; we create experiences! Our leather is sourced from the finest suppliers, and our balls undergo rigorous testing – think of it as boot camp for cricket balls. We ensure they are tough, reliable, and ready to take on any pitch!</p>
+    </section>
+
+    <section id="product">
+        <h2>Product Description</h2>
+        <h3>The Flying Falcon</h3>
+        <p>Introducing The Flying Falcon – the ultimate companion for cricket enthusiasts! Crafted from the finest premium leather, this ball is engineered for maximum performance.</p>
+        <ul>
+            <li><strong>Durability:</strong> Built to withstand the fiercest of games.</li>
+            <li><strong>Grip:</strong> So good, even the bowlers are jealous!</li>
+            <li><strong>Bounce:</strong> Like a kangaroo on a trampoline – expect nothing less!</li>
+        </ul>
+        <p>With The Flying Falcon, you’re not just getting a cricket ball; you’re investing in your game! Experience unmatched control, precision, and that sweet sound of leather hitting willow.</p>
+    </section>
+
+    <section id="testimonials">
+        <h2>Testimonials</h2>
+        <blockquote>
+            <p>"I thought my sixes were impressive until I tried the Flying Falcon. Now, I’m basically a cricketing superhero!" – Rohit, Weekend Warrior</p>
+        </blockquote>
+        <blockquote>
+            <p>"These balls are so good, my bowling average actually improved. I might have to start charging for my tips!" – Anita, Cricket Coach Extraordinaire</p>
+        </blockquote>
+        <blockquote>
+            <p>"Shinjo balls: the only thing that flies higher than my hopes of becoming a cricket legend!" – Arjun, Aspiring Cricketer</p>
+        </blockquote>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Got questions, feedback, or just want to share your latest cricket victory? We’d love to hear from you! Reach out to us, and let’s keep the ball rolling – after all, every great partnership starts with a simple ‘hello.’</p>
+        <form id="contactForm">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" placeholder="What’s on your mind? (No pressure, we won’t judge your bowling style!)" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Shinjo Sports. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script> <!-- Link to JavaScript -->
+</body>
+</html>
